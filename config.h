@@ -1,0 +1,6 @@
+#define TAPPING_TERM 175
+#define TAPPING_TERM_PER_KEY
+
+#define EE_HANDS
+
+#define COMBO_ONLY_FROM_LAYER 0
