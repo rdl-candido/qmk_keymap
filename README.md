@@ -16,13 +16,15 @@ Make sure to click in Tools > EEPROM > select which side you are flashing
 
 PS: The file is the same
 
-### Left
+## How to flash the keyboard
 
-qmk flash -kb ferris/sweep -km rdl-candido -bl avrdude-split-left
+### Left-side
 
-### Right
+```qmk flash -kb ferris/sweep -km rdl-candido -bl avrdude-split-left```
 
-qmk flash -kb ferris/sweep -km rdl-candido -bl avrdude-split-right
+### Right-side
+
+```qmk flash -kb ferris/sweep -km rdl-candido -bl avrdude-split-right```
 
 ### Quick links:
 
